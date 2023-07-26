@@ -1,0 +1,158 @@
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\obj\Debug\net5.0\Hvex.csproj.AssemblyReference.cache
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\obj\Debug\net5.0\Hvex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\obj\Debug\net5.0\Hvex.AssemblyInfoInputs.cache
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\obj\Debug\net5.0\Hvex.AssemblyInfo.cs
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\obj\Debug\net5.0\Hvex.csproj.CoreCompileInputs.cache
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\obj\Debug\net5.0\Hvex.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\obj\Debug\net5.0\Hvex.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\appsettings.json
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Hvex.exe
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Hvex.deps.json
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Hvex.runtimeconfig.json
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Hvex.runtimeconfig.dev.json
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Hvex.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Hvex.pdb
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Humanizer.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Npgsql.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Hvex.Data.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Hvex.Domain.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Hvex.Data.pdb
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Hvex.Domain.pdb
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\obj\Debug\net5.0\scopedcss\bundle\Hvex.styles.css
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\obj\Debug\net5.0\staticwebassets\Hvex.StaticWebAssets.Manifest.cache
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\obj\Debug\net5.0\Hvex.RazorTargetAssemblyInfo.cache
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\obj\Debug\net5.0\Hvex.csproj.CopyComplete
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\obj\Debug\net5.0\Hvex.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\obj\Debug\net5.0\refint\Hvex.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\obj\Debug\net5.0\Hvex.pdb
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\obj\Debug\net5.0\Hvex.genruntimeconfig.cache
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\obj\Debug\net5.0\ref\Hvex.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Hvex.Exception.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex\bin\Debug\net5.0\Hvex.Exception.pdb
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\appsettings.Development.json
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\appsettings.json
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.exe
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.deps.json
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.runtimeconfig.json
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.runtimeconfig.dev.json
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.pdb
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\AutoMapper.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\FluentValidation.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Humanizer.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Npgsql.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.Data.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.Domain.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.Exception.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.Data.pdb
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.Domain.pdb
+C:\Projetos C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.Exception.pdb
+C:\Projetos C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.csproj.AssemblyReference.cache
+C:\Projetos C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.AssemblyInfoInputs.cache
+C:\Projetos C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.AssemblyInfo.cs
+C:\Projetos C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.csproj.CoreCompileInputs.cache
+C:\Projetos C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\scopedcss\bundle\Hvex.styles.css
+C:\Projetos C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\staticwebassets\Hvex.StaticWebAssets.Manifest.cache
+C:\Projetos C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.RazorTargetAssemblyInfo.cache
+C:\Projetos C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.csproj.CopyComplete
+C:\Projetos C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\refint\Hvex.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.pdb
+C:\Projetos C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.genruntimeconfig.cache
+C:\Projetos C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\ref\Hvex.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\appsettings.Development.json
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\appsettings.json
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.exe
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.deps.json
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.runtimeconfig.json
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.runtimeconfig.dev.json
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.pdb
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\AutoMapper.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\FluentValidation.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Humanizer.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Npgsql.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.Data.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.Domain.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.Exception.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.Data.pdb
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.Domain.pdb
+C:\Projeto C#\HvexDto\Hvex\Hvex\bin\Debug\net5.0\Hvex.Exception.pdb
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.csproj.AssemblyReference.cache
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.AssemblyInfoInputs.cache
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.AssemblyInfo.cs
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.csproj.CoreCompileInputs.cache
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.MvcApplicationPartsAssemblyInfo.cs
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.MvcApplicationPartsAssemblyInfo.cache
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\scopedcss\bundle\Hvex.styles.css
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\staticwebassets\Hvex.StaticWebAssets.Manifest.cache
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.RazorTargetAssemblyInfo.cache
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.csproj.CopyComplete
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\refint\Hvex.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.pdb
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\Hvex.genruntimeconfig.cache
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\ref\Hvex.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\staticwebassets\Hvex.StaticWebAssets.Pack.cache
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\staticwebassets\msbuild.Hvex.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\staticwebassets\msbuild.build.Hvex.props
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Hvex.props
+C:\Projeto C#\HvexDto\Hvex\Hvex\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Hvex.props

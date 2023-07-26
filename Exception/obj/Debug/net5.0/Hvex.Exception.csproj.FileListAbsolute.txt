@@ -1,0 +1,42 @@
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Exception\bin\Debug\net5.0\Hvex.Exception.deps.json
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Exception\bin\Debug\net5.0\Hvex.Exception.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Exception\bin\Debug\net5.0\Hvex.Exception.pdb
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.csproj.AssemblyReference.cache
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.ResourceMessageErro.resources
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.csproj.GenerateResource.cache
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.AssemblyInfoInputs.cache
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.AssemblyInfo.cs
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.csproj.CoreCompileInputs.cache
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Exception\obj\Debug\net5.0\refint\Hvex.Exception.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.pdb
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Exception\obj\Debug\net5.0\ref\Hvex.Exception.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex.Exception\bin\Debug\net5.0\Hvex.Exception.deps.json
+C:\Projetos C#\HvexDto\Hvex\Hvex.Exception\bin\Debug\net5.0\Hvex.Exception.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex.Exception\bin\Debug\net5.0\Hvex.Exception.pdb
+C:\Projetos C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.csproj.AssemblyReference.cache
+C:\Projetos C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.ResourceMessageErro.resources
+C:\Projetos C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.csproj.GenerateResource.cache
+C:\Projetos C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.AssemblyInfoInputs.cache
+C:\Projetos C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.AssemblyInfo.cs
+C:\Projetos C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.csproj.CoreCompileInputs.cache
+C:\Projetos C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\refint\Hvex.Exception.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.pdb
+C:\Projetos C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\ref\Hvex.Exception.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex.Exception\bin\Debug\net5.0\Hvex.Exception.deps.json
+C:\Projeto C#\HvexDto\Hvex\Hvex.Exception\bin\Debug\net5.0\Hvex.Exception.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex.Exception\bin\Debug\net5.0\Hvex.Exception.pdb
+C:\Projeto C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.csproj.AssemblyReference.cache
+C:\Projeto C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.ResourceMessageErro.resources
+C:\Projeto C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.csproj.GenerateResource.cache
+C:\Projeto C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.AssemblyInfoInputs.cache
+C:\Projeto C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.AssemblyInfo.cs
+C:\Projeto C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.csproj.CoreCompileInputs.cache
+C:\Projeto C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\refint\Hvex.Exception.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\Hvex.Exception.pdb
+C:\Projeto C#\HvexDto\Hvex\Hvex.Exception\obj\Debug\net5.0\ref\Hvex.Exception.dll

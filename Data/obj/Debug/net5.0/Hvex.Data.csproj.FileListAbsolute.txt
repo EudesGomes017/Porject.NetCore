@@ -1,0 +1,60 @@
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Data.deps.json
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Data.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Data.pdb
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.csproj.AssemblyReference.cache
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.AssemblyInfoInputs.cache
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.AssemblyInfo.cs
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.csproj.CoreCompileInputs.cache
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Data\obj\Debug\net5.0\refint\Hvex.Data.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.pdb
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Data\obj\Debug\net5.0\ref\Hvex.Data.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Data.runtimeconfig.json
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Data.runtimeconfig.dev.json
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Domain.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Domain.pdb
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.csproj.CopyComplete
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.genruntimeconfig.cache
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Exception.dll
+C:\Users\lcoliveira\Desktop\Projetos\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Exception.pdb
+C:\Projetos C#\HvexDto\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Data.deps.json
+C:\Projetos C#\HvexDto\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Data.runtimeconfig.json
+C:\Projetos C#\HvexDto\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Data.runtimeconfig.dev.json
+C:\Projetos C#\HvexDto\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Data.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Data.pdb
+C:\Projetos C#\HvexDto\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Domain.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Exception.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Domain.pdb
+C:\Projetos C#\HvexDto\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Exception.pdb
+C:\Projetos C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.csproj.AssemblyReference.cache
+C:\Projetos C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.AssemblyInfoInputs.cache
+C:\Projetos C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.AssemblyInfo.cs
+C:\Projetos C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.csproj.CoreCompileInputs.cache
+C:\Projetos C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.csproj.CopyComplete
+C:\Projetos C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\refint\Hvex.Data.dll
+C:\Projetos C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.pdb
+C:\Projetos C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.genruntimeconfig.cache
+C:\Projetos C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\ref\Hvex.Data.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Data.deps.json
+C:\Projeto C#\HvexDto\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Data.runtimeconfig.json
+C:\Projeto C#\HvexDto\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Data.runtimeconfig.dev.json
+C:\Projeto C#\HvexDto\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Data.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Data.pdb
+C:\Projeto C#\HvexDto\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Domain.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Exception.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Domain.pdb
+C:\Projeto C#\HvexDto\Hvex\Hvex.Data\bin\Debug\net5.0\Hvex.Exception.pdb
+C:\Projeto C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.csproj.AssemblyReference.cache
+C:\Projeto C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.AssemblyInfoInputs.cache
+C:\Projeto C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.AssemblyInfo.cs
+C:\Projeto C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.csproj.CoreCompileInputs.cache
+C:\Projeto C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.csproj.CopyComplete
+C:\Projeto C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\refint\Hvex.Data.dll
+C:\Projeto C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.pdb
+C:\Projeto C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\Hvex.Data.genruntimeconfig.cache
+C:\Projeto C#\HvexDto\Hvex\Hvex.Data\obj\Debug\net5.0\ref\Hvex.Data.dll
